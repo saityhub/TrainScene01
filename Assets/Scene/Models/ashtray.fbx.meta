@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a57bfe484c50a624d8a36f313ee3a859
+guid: 31bc94399a96b7343a2c57b857eca0b2
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,38 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Default_Material
-    second: {fileID: 2100000, guid: 7146a139c2636004d8e5ab572c06f35f, type: 2}
+      name: Ashray_pbr_shader
+    second: {fileID: 2100000, guid: 8f6e7369d7f498b4a932e891462ab652, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MAT_Base
-    second: {fileID: 2100000, guid: 381d212b506d7bd4e9114a1a07779cd6, type: 2}
+      name: Ashray_pbr_shader1
+    second: {fileID: 2100000, guid: ad0b19a863ad8ed418e15b012a487896, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MAT_CabinWalls
-    second: {fileID: 2100000, guid: 7146a139c2636004d8e5ab572c06f35f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MAT_Door
-    second: {fileID: 2100000, guid: c51fa1fce6614a34ab705f60cca36566, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MAT_TrainBody
-    second: {fileID: 2100000, guid: fdebc1b00cb25f441bc0aa6bd18cecec, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MAT_Wheels
-    second: {fileID: 2100000, guid: cb8dd6724f67695489fbb155fea6c37a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MAT_Wood
-    second: {fileID: 2100000, guid: ed79cadd3a3a08f42bf0b8ac738807ea, type: 2}
+      name: Cigar_pbr_shader
+    second: {fileID: 2100000, guid: 67b78fc934cf36841b00dafee5acfc5b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
