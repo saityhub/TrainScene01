@@ -1593,6 +1593,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 198408064621657370, guid: f425f9c3a9f10c14e95822bcab0e646d, type: 3}
+      propertyPath: randomSeed
+      value: 2670
+      objectReference: {fileID: 0}
+    - target: {fileID: 198408064621657370, guid: f425f9c3a9f10c14e95822bcab0e646d, type: 3}
+      propertyPath: autoRandomSeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 198547902085727980, guid: f425f9c3a9f10c14e95822bcab0e646d, type: 3}
+      propertyPath: randomSeed
+      value: 2670
+      objectReference: {fileID: 0}
+    - target: {fileID: 198547902085727980, guid: f425f9c3a9f10c14e95822bcab0e646d, type: 3}
+      propertyPath: autoRandomSeed
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2187,7 +2203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c8bca95f7c947b4db5fb152a0d693d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: com.cqf.urpvolumetricfog.runtime::VolumetricAdditionalLight
-  anisotropy: -0.33
+  anisotropy: -0.605
   scattering: 1.58
   radius: 0.043
 --- !u!114 &1600806862
